@@ -1,0 +1,7 @@
+{
+    "/api/*": {
+        "target": "https://notify-bot.line.me/oauth/token",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
